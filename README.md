@@ -1,7 +1,7 @@
 
 ## LatourScope
 
-![Landing on Lancaster Map](images/LandingonLancaster.png)
+<img src="images/LandingonLancaster.png" width="600">
 
 The Latourscope is a folding origami map kit based on the work of Bruno Latour on critical zones from his [Inside Lecture](https://www.youtube.com/watch?v=gzPROcd1MuE).
 
@@ -21,7 +21,9 @@ Why make such a difficult map? You forget every map was once difficult, it took 
 
 ## Inside Indie Manufacturing
 
-![Landing on DoES Map](images/LandingonDoESmap.png)
+<img src="images/LandingonDoESmap.png" width="600">
+
+
 What else counts as a critical zone? Soil is of course the most important thing; but this can be an inconvenient externality, as other zones like surviving UK manufacturing sites become critical. We rely on these relations also. Each map we make cuts away some relations and not others.
 
 ## Industrial Estate of Mind
