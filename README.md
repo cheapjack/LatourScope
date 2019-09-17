@@ -11,7 +11,7 @@ A soil scientists perspective is quite different to the mercantile globe maker; 
 
 He imagines rather than sitting freely on the outside of a globe we sit comfortable (for now) ***inside*** intimate relations of microbiological soil systems & multitudes of dead and living plants and animals. We all know this veneer could be in crisis.
 
-My map takes a cartesian space from Open Street Maps and prints it beautifully on the inside of an origami lantern shape thanks to some well crafted Californian javascript.
+My map takes a cartesian space from Open Street Maps and the [Indie Manufacturing Project](http://indie.mcqn.com) and prints it beautifully on the inside of an origami lantern shape.
 
 You have to carefully cut and fold your landscape and gently blow life into it. You then peer into the inner surface; try to get your bearings! Where are we ***really***?
 
