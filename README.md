@@ -17,7 +17,13 @@ You have to carefully cut and fold your landscape and gently blow life into it. 
 
 Why make such a difficult map? You forget every map was once difficult, it took effort and now we take it for granted. But our easy mappings control our perspectives; how do you map our relations to soil? Where is the carbon web and who is not mapping it?
 
+## Update
 
+Since making this Latour, Alexandra Arènes / Soheil Hajmirbaba from SOC - Société d'Objets Cartographiques/atelier shaā have made an online interpretation of the idea. Produced in collaboration with ZKM | Karlsruhe and SOC the geoscientists of OZCAR network: Paul Floury (Riverlab), Jérôme Gaillardet (geochemistry), Jacques Hinderer (gravimeter), Sylvain Pasquet (geophysics), Marie-Claire Pierret (Strengbach CZO); and the OHGE laboratory
+
+This prototype tries to make simple and DIY the [online exhibition](https://critical-zones.zkm.de/#!/detail:critical-zone-observatory-space) so you make the map and know how you are inversing a normal map/globe
+
+It would be good to make the same extraordinary resolution and fidelity of that map to the supply chain local to things we make our the projects we work on. The simple DIY maker version of the project is just the tip of the iceberg of what could be done. Check out Adrian's [issues on an open source trip planner](https://github.com/Liverpool-UK/somebody-should/issues/35)
 
 ## Inside Indie Manufacturing
 
